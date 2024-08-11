@@ -92,4 +92,14 @@ Created by Pratham K
 - Email: prathamk.btech22@rvu.edu.in
 - Contact: 9036581932
 
+## License
+This project is licensed under the MIT License.
+
+## Acknowledgments
+
+* Wikipedia for providing comprehensive information about parasailing.
+* Thrillophilia, Wikimedia Commons, and Travel Triangle for providing high-quality images of different types of parasailing.
+* Various parasailing operators and enthusiasts for sharing their experiences, which formed the basis of our testimonials.
+* W3Schools and MDN Web Docs for their invaluable web development resources and tutorials.
+
 For any queries or suggestions, please feel free to reach out!
